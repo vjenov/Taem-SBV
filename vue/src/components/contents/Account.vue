@@ -17,8 +17,8 @@
 </div>
 </template>
 <script>
-import Nav from '@/components/Nav.vue'
-import Footer from '@/components/Footer.vue'
+import Nav from '@/components/cmm/Nav.vue'
+import Footer from '@/components/cmm/Footer.vue'
 export default{
 	name :'account',
 	components :{Nav, Footer},

@@ -14,7 +14,7 @@
   </div>
 </template>
 <script>
-import Nav from '@/components/Nav.vue'
+import Nav from '@/components/cmm/Nav.vue'
 export default {
   name: 'Cart',
   components : {

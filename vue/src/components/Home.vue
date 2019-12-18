@@ -6,9 +6,9 @@
 	</div>
 </template>	
 <script>
-import Nav from '@/components/Nav.vue'
-import JumboTron from "@/components/JumboTron.vue"
-import Footer from "@/components/Footer.vue"
+import Nav from '@/components/cmm/Nav.vue'
+import JumboTron from "@/components/cmm/JumboTron.vue"
+import Footer from "@/components/cmm/Footer.vue"
 export default{
 	name: 'home',
 	components : {
